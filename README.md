@@ -28,15 +28,21 @@ Jeg gikk over til å lage flash cards for å øve til eksamner, da jeg følte ma
 
 ## DAFE2200 - Systemutvikling
 
+Systemutviklingspensum. Kombinert to set i systemutvikling laget av AliNarmi og OnionPower på Quizlet. Jeg har selv lagt inn flashcards om DevOps, basert på notater fra Emma Tvinnerheim.
+
 https://quizlet.com/750244424/systemutvikling-dafe2200-inf1055-flash-cards/?i=4tn4jv&x=1jqt
 
 
 ## ADTS2310 - Testing av programvare
 
+Teoridelen av pensum i ADTS2310. Lånt Jenny_Berggreen sitt sett på Quizlet og bygget videre på det. Inneholder også stoff fra eksamen 2016-2022.
+
 https://quizlet.com/800280262/adts2310-testing-av-programvare-flash-cards/?i=4tn4jv&x=1jqt
 
 
 ## ITPE3100 - Datasikkerhet
+
+Flashcards from ITPE3100 Datasikkerhet subject. Based on the course material, weekly assignments and lectures from Ismail Hassan. Also based on material from CISSP - All-in-One Exam Guide by Shon Harris & Fernando Maymí (ISBN: 978-1-26-014264-8). The flash cards are in English since all the theory is in English and I'll be taking the exam in English.
 
 https://quizlet.com/803100329/itpe3100-datasikkerhet-flash-cards/?i=4tn4jv&x=1jqt
 
