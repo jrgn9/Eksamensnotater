@@ -5,18 +5,17 @@ Eksamensnotater og ressurser fra forskjellige fag fra bachelor i informasjonstek
 
 ---
 
-## Fag 1
+## DATA1500 - Databaser
 
 lorem ipsum
 
----
-## Fag 2
+
+## DATS2300 - Algoritmer og datastrukturer
 
 Lompe
 
----
 
-## Fag 3
+## DATA2500 - Operativsystemer
 
 bla bla
 
@@ -26,17 +25,20 @@ bla bla
 
 Jeg gikk over til å lage flash cards for å øve til eksamner, da jeg følte mange fag hadde teori som var mer "puggekunnskap" hvor flash cards passet utmerket til øving. Her er en liste over flash cards jeg har laget til eksamensøving
 
-----
 
-## Fag 1
+## DAFE2200 - Systemutvikling
 
-kort
+https://quizlet.com/750244424/systemutvikling-dafe2200-inf1055-flash-cards/?i=4tn4jv&x=1jqt
 
----
 
-## Fag 2
+## ADTS2310 - Testing av programvare
 
-mer kort
+https://quizlet.com/800280262/adts2310-testing-av-programvare-flash-cards/?i=4tn4jv&x=1jqt
+
+
+## ITPE3100 - Datasikkerhet
+
+https://quizlet.com/803100329/itpe3100-datasikkerhet-flash-cards/?i=4tn4jv&x=1jqt
 
 ---
 
