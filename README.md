@@ -1,23 +1,31 @@
 # Eksamensnotater
 Eksamensnotater og ressurser fra forskjellige fag fra bachelor i informasjonsteknologi ved OsloMet.
 
-**Disclaimer:** Jeg tar ikke noe ansvar for eventuelle feil og mangler i notatene og ressursene. Dette er materiale jeg selv har brukt i forkant av eksamner, men jeg kan ikke garantere at dette dekker alt av pensum eller at alt er korrekt.
+**Disclaimer:** Jeg tar ikke noe ansvar for eventuelle feil og mangler i notatene og ressursene. Dette er materiale jeg selv har brukt i forkant av eksamener, men jeg kan ikke garantere at dette dekker alt av pensum eller at alt er korrekt.
 
 ---
 
 ## DATA1500 - Databaser
 
-lorem ipsum
+### SQL Oppslagsverk
+
+Dette dokumentet er en samling og sammendrag av [SQL Tutorial fra W3Schools](https://www.w3schools.com/sql/). Dette dokumentet var en del av en obligatorisk oppgave, men viste seg å være nyttig i forkant av eksamen.
+
+### Eksamensnotater
+
+Eksamensnotatene er basert på forelesninger av Torunn Gjester, tidligere eksamener og boken Databasesystemer av Bjørn Kristoffersen (ISBN: 9788215032511).
 
 
 ## DATS2300 - Algoritmer og datastrukturer
 
-Lompe
+Notater basert på forelesninger og notater av Øystein Klemetsdal og André R. Brodtkorb, egen kildekode og [Ulf Uttersrud sitt kompendium](https://www.cs.hioa.no/~ulfu/appolonius/index.html). 
+
+Merk at disse notatene ikke er helt komplett, det har noen svakheter og mangler. Spesielt når det kommer til stacks.
 
 
 ## DATA2500 - Operativsystemer
 
-bla bla
+Dokumentet er et cheat sheet som vi fikk lov til å ha med på eksamen. Andre har sannsynligvis laget bedre sheet cheats, men dette fungerte greit for meg. Det inneholder ulike nyttige kommandoer, Assembly, PowerShell, litt forskjellige terminaltriks og to eksempler fra tidligere eksamen. Innholdet er stort sett hentet fra litt her og der på internett og fasit fra tidligere eksamener.
 
 ---
 
