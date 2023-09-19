@@ -56,6 +56,6 @@ https://quizlet.com/803100329/itpe3100-datasikkerhet-flash-cards/?i=4tn4jv&x=1jq
 
 ---
 
-Noe om lisensen her
+Du står fritt til å bruke og dele disse notatene, så lenge du attribuerer meg (og de jeg har basert notatene på), ikke bruker disse til kommersiell bruk samt deler notatene med samme lisens og krav. Se CreativeCommons BY-NC-SA 4.0 for mer informasjon
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>
