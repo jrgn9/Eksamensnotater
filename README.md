@@ -27,6 +27,12 @@ Merk at disse notatene ikke er helt komplett, det har noen svakheter og mangler.
 
 Dokumentet er et cheat sheet som vi fikk lov til å ha med på eksamen. Andre har sannsynligvis laget bedre sheet cheats, men dette fungerte greit for meg. Det inneholder ulike nyttige kommandoer, Assembly, PowerShell, litt forskjellige terminaltriks og to eksempler fra tidligere eksamen. Innholdet er stort sett hentet fra litt her og der på internett og fasit fra tidligere eksamener.
 
+## DAVE3610 - Nettverk- og systemadministrasjon
+
+**Dokumentet med alle ukesoppgavene fra emnet:** Løsningene er basert på demovideoer fra foreleser Ismail Hassan, samt noe dokumentasjon på nett og hjelp fra medelever. Det er ikke alle oppgavene som fungerer, men jeg har ikke prioritert feilsøking. Målet er å gi et bilde av hvordan man gjør ulike sysadminoperasjoner
+
+**Dokumentet med eksamensnotater:** Kommer
+
 ---
 
 # Flash cards
