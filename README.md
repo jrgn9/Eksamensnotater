@@ -29,9 +29,11 @@ Dokumentet er et cheat sheet som vi fikk lov til å ha med på eksamen. Andre ha
 
 ## DAVE3610 - Nettverk- og systemadministrasjon
 
+
+
 **Dokumentet med alle ukesoppgavene fra emnet:** Løsningene er basert på demovideoer fra foreleser Ismail Hassan, samt noe dokumentasjon på nett og hjelp fra medelever. Det er ikke alle oppgavene som fungerer, men jeg har ikke prioritert feilsøking. Målet er å gi et bilde av hvordan man gjør ulike sysadminoperasjoner
 
-**Dokumentet med eksamensnotater:** Kommer
+**Dokumentet med eksamensnotater:** Notatene er skrevet ved hjelp av [SysadminGPT](https://chatgpt.com/g/g-MYVn865G1-sysadmingpt), min custom GPT matet med pensum fra faget. Mye av materialet er basert på Linux System Administration av Paul Cobbaut og forelesninger av Ismail Hassan og Nakarin Phooripoom.På grunn av tidsbegrensninger måtte jeg benytte SysadminGPT til å skrive om en del av teksten jeg lagde.
 
 ---
 
